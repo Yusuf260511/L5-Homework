@@ -1,0 +1,86 @@
+.div1 {
+    width: 1160px;
+    height: 900px;
+    background-color: #343C56;
+    color: white;
+    margin: 0 auto;
+    border-radius: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding: 46px 84px;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+}
+
+.deti {
+    width: 200px;
+    height: 40px;
+    background-color: #FF0101;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.section1 {
+    text-align: center;
+    font-size: 24px;
+    width: 264px;
+    height: 118px;
+    background-color: black;
+    border-radius: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 41px auto;
+}
+
+.img1 {
+    width: 400px;
+    height: 200px;
+    margin: 68px 80px;
+}
+
+iframe {
+    width: 400px;
+    height: 200px;
+    margin: 68px 80px;
+}
+
+.flex {
+    display: flex;
+}
+
+.n1 {
+    width: 380px;
+    height: 210px;
+    text-align: center;
+    color: black;
+    background-color: #61FF00;
+    padding: 7px;
+    box-sizing: border-box;
+    border: 50px solid red;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.n2 {
+    width: 380px;
+    height: 210px;
+    text-align: center;
+    color: black;
+    background-color: #61FF00;
+    padding: 7px;
+    box-sizing: border-box;
+    border: 50px solid red;
+    border-radius: 50px;
+    margin-left: 200px;
+}
+
+.otec {
+    display: flex;
+    justify-content: space-between;
+}
